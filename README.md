@@ -19,11 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 #Praktikum
 
 
-![Image](image/1.png)
-<br>
+![Image](1.png)
 
-![Image](image/2.png)
-<br>
+![Image](2.png)
 
-![Image](image/3.png)
-<br>
+![Image](3.png)
