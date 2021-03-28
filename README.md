@@ -18,11 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 
 #Hasil Praktikum
 
-![plot](./image/1.png).
+![image](1.png)
 <br>
 
-![plot](./image/2.png).
+![image](2.png)
 <br>
 
-![plot](./image/3.png).
+![image](3.png)
 <br>
