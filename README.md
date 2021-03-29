@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 #Praktikum
 
 
-![screenshot](image/1.png)
+<img src="/image/1.png" width="200px" height="400px"></img>
 
-![screenshot](image/2.png)
+<img src="/image/2.png" width="200px" height="400px"></img>
 
-![screenshot](image/3.png)
+<img src="/image/3.png" width="200px" height="400px"></img>
