@@ -18,9 +18,14 @@ samples, guidance on mobile development, and a full API reference.
 
 #Praktikum
 
+<div align="center">
+  <img src="/image/screenshot1.PNG" width"400px"</img>
+ </div>
 
-![screenshot1]({image/screenshot1.png})
+ <div align="center">
+  <img src="/image/screenshot2.PNG" width"400px"</img>
+ </div>
 
-![screenshot](image/screenshot2.png)
-
-![screenshot](image/screenshot3.png)
+ <div align="center">
+  <img src="/image/screenshot3.PNG" width"400px"</img>
+ </div>
