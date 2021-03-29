@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 #Praktikum
 
 
-![screenshot](image/screenshot1.png)
+![screenshot1]({image/screenshot1.png})
 
 ![screenshot](image/screenshot2.png)
 
