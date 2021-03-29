@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 #Praktikum
 
 
-![screenshot](1.png)
+![screenshot](screenshot1.PNG)
 
-![screenshot](https://url/to/2.png)
+![screenshot](screenshot2.PNG)
 
-![screenshot](https://url/to/3.png)
+![screenshot](screenshot3.PNG)
