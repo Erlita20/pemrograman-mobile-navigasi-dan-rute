@@ -18,7 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 
 #Praktikum
 
+<div align="center">
+  <img src="/image/screenshot1.PNG" width"50px"</img>
+ </div>
 
+<<<<<<< HEAD
 <div align="center">
   <img src="/image/screenshot1.PNG" width"50px"</img>
  </div>
@@ -30,3 +34,12 @@ samples, guidance on mobile development, and a full API reference.
  <div align="center">
   <img src="/image/screenshot3.PNG" width"50px"</img>
  </div>
+=======
+ <div align="center">
+  <img src="/image/screenshot2.PNG" width"50px"</img>
+ </div>
+
+ <div align="center">
+  <img src="/image/screenshot3.PNG" width"50px"</img>
+ </div>
+>>>>>>> 5dae5ad020aeab2dc96792aad9664933cc4595b9
